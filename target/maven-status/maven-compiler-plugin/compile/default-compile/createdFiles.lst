@@ -1,0 +1,4 @@
+org/apache/maven/archetypes/tablero/BBAppStarter.class
+org/apache/maven/archetypes/tablero/BBEndpoint.class
+org/apache/maven/archetypes/tablero/BBConfigurator.class
+org/apache/maven/archetypes/tablero/DrawingServiceController.class
