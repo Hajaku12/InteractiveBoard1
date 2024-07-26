@@ -17,6 +17,7 @@ The application allows users to draw on a shared board, with changes reflecting 
 
 ## Screenshots
 
+<img width="1416" alt="image" src="https://github.com/user-attachments/assets/bf72b1b0-4503-4625-871b-c8fab810eed5">
 
 
 ## Technologies Used
